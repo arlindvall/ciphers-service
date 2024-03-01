@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Desktop\ciphers-service\.virtual-environment
+set VIRTUAL_ENV=C:\School\Spring2024\C465\ciphers-service\.virtual-environment
 
 if not defined PROMPT set PROMPT=$P$G
 
